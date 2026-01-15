@@ -1,11 +1,10 @@
-<script setup></script>
-
 <template>
-  <h1>Boker Tov Manila, Shalom Makati</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to know the stuff
-    documentation
-  </p>
+  <h1>Food</h1>
+  <food-item/>
+  <food-item/>
+  <food-item/>
 </template>
-
-<style scoped></style>
+ 
+<script></script>
+ 
+<style></style>
