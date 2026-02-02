@@ -3,6 +3,7 @@
   <personal-profile/>
   <comment-form/>
   <comment/>
+  <rest-api/>
    
 
 </template>
